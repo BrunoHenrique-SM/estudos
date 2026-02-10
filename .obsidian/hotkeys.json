@@ -1,0 +1,26 @@
+{
+  "calendar:show-calendar-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad1"
+    }
+  ],
+  "calendar:open-weekly-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad2"
+    }
+  ],
+  "calendar:reveal-active-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad3"
+    }
+  ]
+}
