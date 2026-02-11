@@ -1,0 +1,1 @@
+O html é uma ferramenta de marcação de texto, serve para fazer sites e é muito associado com o [[CSS ]]e o [[JavaScript]]
