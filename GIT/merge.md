@@ -1,0 +1,1 @@
+Quando queremos unir duas [[branch]], fazemos um merge, assim as altereções e adição feitas em cada um se unem, gerando uma nova branch e versão do projeto, que é capaz de mostrar as alterações

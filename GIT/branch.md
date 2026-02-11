@@ -1,0 +1,1 @@
+Nas empresas o comum é cada computador ser uma branch diferente, para que cada alteração tenha autor, através delas é possível realizar mudanças, verifica-las e então adicionar à branch main
