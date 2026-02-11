@@ -1,1 +1,2 @@
-Quando queremos unir duas [[branch]], fazemos um merge, assim as altereções e adição feitas em cada um se unem, gerando uma nova branch e versão do projeto, que é capaz de mostrar as alterações
+# merge
+O processo de integrar alterações de diferentes branches em uma única [[branch]], combinando o trabalho de vários desenvolvedores em um projeto coeso.

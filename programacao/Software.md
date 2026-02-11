@@ -1,0 +1,2 @@
+# Software
+É um comando de ações à serem processadas e executadas pelo computador. Entrada é um input do usuário, que através de um conjunto pré estabelecidos de comandos é processada pelo computador e gera uma saída
