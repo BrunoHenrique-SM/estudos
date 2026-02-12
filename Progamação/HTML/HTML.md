@@ -1,0 +1,2 @@
+O **HTML** **(HyperText Markup Language)** é uma linguagem de pogramação usada para definir a *Estrutura das Páginas*, em outras palavras, ele que é usado para criar a fundação de um Servidor Web.
+Em conjunto do **CCS** para **estilização e visual** e do **JavaScript** para **interatividade e funções** que se nascem os Sites que conhecemos.
