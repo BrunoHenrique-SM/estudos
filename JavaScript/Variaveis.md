@@ -14,4 +14,4 @@ x = "Bruno"
 x = ["casa", "Teste"];
 ```
 
-Em JavaScript, `let` e `const` possuem escopo de bloco e evitam problemas comuns do `var`, que tem escopo de função e permite redeclaração. O uso de `const` é recomendado sempre que o valor não precisar ser reatribuído.
+Em JavaScript, `let` e `const` possuem escopo de bloco e evitam problemas comuns do `var`, que tem escopo de função. O uso de `const` é recomendado sempre que o valor não precisar ser reatribuído.
