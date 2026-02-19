@@ -1,0 +1,1 @@
+O processo de repetir um conjunto de instruções em um loop até que uma condição específica seja atendida, comum em estruturas de repetição como `for` e `while`.

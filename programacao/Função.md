@@ -1,0 +1,2 @@
+# Função
+Função é um conceito herdado da matemática, o qual consiste em realizar um conjunto de ações pré estabelecidas, podendo exigir parâmetros, valores necessários para conclusão da função e gerar o retorno de algum dado.
