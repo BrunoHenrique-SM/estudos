@@ -1,0 +1,4 @@
+# Docker
+- O que é um docker?
+	É uma ferramenta que separa o computador em partições, para rodar de forma independente, pois, perceberam que algumas vezes utilizar uma VM gerava um consumo extra desnecessário para uma aplicação simples, então o docker apareceu como um opção mais eficiente
+- Como fazer uma Máquina virtual(VM)?
