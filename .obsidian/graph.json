@@ -6,7 +6,36 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:PHP  ",
+      "color": {
+        "a": 1,
+        "rgb": 2771690
+      }
+    },
+    {
+      "query": "path:JavaScript  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:GIT  ",
+      "color": {
+        "a": 1,
+        "rgb": 15894362
+      }
+    },
+    {
+      "query": "path:programacao ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": false
+  "scale": 0.3628873693012113,
+  "close": true
 }

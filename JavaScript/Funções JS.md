@@ -1,4 +1,4 @@
-# Funções
+[]()# Funções
 o [[JavaScript]] possui alguns modos de declarar uma [[Função]], vamos entender como e quando usa-los. O primeiro sendo a declaração formal:
 
 ## Tipo de funções
