@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "5e469855ebdd7dd7",
+    "id": "0b00abd1def36ac7",
     "type": "split",
     "children": [
       {
-        "id": "4f94385adbf5ed59",
+        "id": "cbbd3d68d0b920f2",
         "type": "tabs",
         "children": [
           {
-            "id": "9fe35c04902b34f8",
+            "id": "ce212a2494adda88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programacao/Docker.md",
+                "file": "JavaScript/setInterval.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
-            }
-          },
-          {
-            "id": "c32659df0b8dca46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/for JS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "for JS"
+              "title": "setInterval"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f44f12c1b5a9099c",
+    "id": "0e6b64a866e6d4a3",
     "type": "split",
     "children": [
       {
-        "id": "a175ad8a4d314469",
+        "id": "c7bdeb36702fb658",
         "type": "tabs",
         "children": [
           {
-            "id": "632f1b514a71b539",
+            "id": "0a264b401d8fb8e7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "85b5854d3990353a",
+            "id": "ee3a8c03a0a295bc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,17 +61,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
-            "id": "4c29e92f65c3f16b",
+            "id": "ce8d64aba7428479",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -96,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "a603264e41a113e3",
+    "id": "db0eb569502bcd70",
     "type": "split",
     "children": [
       {
-        "id": "39de4add8896626b",
+        "id": "43058569e4a9dd0e",
         "type": "tabs",
         "children": [
           {
-            "id": "e4ddf3ace30e406e",
+            "id": "62ec44fd82339e34",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/PHP.md",
+                "file": "JavaScript/Funções JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PHP"
+              "title": "Links inversos para Funções JS"
             }
           },
           {
-            "id": "67006a446e3cd481",
+            "id": "05eef433fef04565",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/PHP.md",
+                "file": "JavaScript/Funções JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PHP"
+              "title": "Links de saída para Funções JS"
             }
           },
           {
-            "id": "e293dc1f730f764c",
+            "id": "5b1ce4cb90ddaf32",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,11 +133,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "953e964523e3782b",
+            "id": "166411e9d55e44e2",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -162,22 +147,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas as propriedades"
             }
           },
           {
-            "id": "0839ff81270615b6",
+            "id": "d11a1bf2b7815471",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/PHP.md",
+                "file": "JavaScript/Funções JS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PHP"
+              "title": "Sumário de Funções JS"
             }
           }
         ]
@@ -198,17 +183,22 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "c32659df0b8dca46",
+  "active": "ce212a2494adda88",
   "lastOpenFiles": [
     "JavaScript/Funções JS.md",
+    "JavaScript/setInterval.md",
+    "JavaScript/if.md",
+    "JavaScript/IMC Calculadora.md",
+    "JavaScript/not JS.md",
+    "JavaScript/Objeto.md",
+    "JavaScript/or JS.md",
+    "JavaScript/split JS.md",
+    "JavaScript/Variaveis.md",
+    "JavaScript/while JS.md",
     "JavaScript/for JS.md",
-    "programacao/Docker.md",
-    "programacao/Programação Orientada a Objetos.md",
-    "[[if]].md",
     "JavaScript/Document.md",
     "JavaScript/Array.md",
-    "PHP/PHP.md",
-    "GIT/clone.md",
-    "GIT/branch.md"
+    "JavaScript/and JS.md",
+    "PHP/Dúvidas.md"
   ]
 }
