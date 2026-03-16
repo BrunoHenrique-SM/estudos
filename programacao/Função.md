@@ -1,2 +1,2 @@
 # Função
-Função é um conceito herdado da matemática, o qual consiste em realizar um conjunto de ações pré estabelecidas, podendo exigir parâmetros, valores necessários para conclusão da função e gerar o retorno de algum dado.
+Função é um conceito herdado da matemática, o qual consiste em realizar um conjunto de ações pré estabelecidas, podendo exigir parâmetros, valores necessários para conclusão da função e gerar o retorno de algum dado. Utilizar uma função é útil quando é necessário executar aquele algorítimo mais de uma vez no código, organizar o código em partes menores e deixar o código mais simples de ser lido e mantido.

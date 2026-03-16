@@ -1,7 +1,32 @@
-[]()# Funções
-o [[JavaScript]] possui alguns modos de declarar uma [[Função]], vamos entender como e quando usa-los. O primeiro sendo a declaração formal:
+# Funções
+Uma função pode ser criada com a [[Variável]] [[Function]], o **nome da função** e o os **parênteses**, também é possível exigir alguns [parâmetros](#Paramêtros) que serão usados na função. O [[JavaScript]] possui alguns modos de declarar uma [[Função]], vamos entender como e quando usa-los. O primeiro sendo a declaração formal:
 
-## Tipo de funções
+## Variáveis locais
+São variáveis declaradas na função, que podem apenas ser usadas naquela função, por isso possuem o nome de variáveis locais.
+```
+// code here can NOT use carName  
+  
+function myFunction() {  
+  let carName = "Volvo";  
+  // code here CAN use carName  
+}  
+  
+// code here can NOT use carName
+```
+Como variáveis locais só podem usadas na função, o nome da variável pode ser reutilizado em outras funções.
+
+## Parâmetros
+**Parâmetros** são os valores enviados as funções, que são listados dentro dos **parênteses**:
+```
+function toCelsius(fahrenheit) {  
+  return (5 / 9) * (fahrenheit - 32);  
+}  
+  
+let value = toCelsius(77);
+```
+
+
+## Criando funções
 ```
 //Cria a função 
 function saudacao(nome){
